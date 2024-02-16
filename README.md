@@ -1,1 +1,1 @@
-This is just a practice file for my machine learning journey
+This is just a practice folder for my machine learning journey
